@@ -16,7 +16,7 @@ elif horas >= 4:
         mensualidad *= 0.88
     else:
         mensualidad *= 0.92
-# si horas < 4 sin descuento
+#horas sin descuento
 
 # --- Matrícula ---
 if tramo in ["A", "B"]:
