@@ -1,4 +1,4 @@
-# Ejercicio 1
+ejer1
 horas = int(input("Ingrese horas diarias: "))
 tramo = input("Ingrese tramo (A, B, C o D): ").upper()
 
@@ -16,7 +16,7 @@ elif horas >= 4:
         mensualidad *= 0.88
     else:
         mensualidad *= 0.92
-# si horas < 4 no hay descuento
+# si horas < 4 sin descuento
 
 # --- Matrícula ---
 if tramo in ["A", "B"]:
